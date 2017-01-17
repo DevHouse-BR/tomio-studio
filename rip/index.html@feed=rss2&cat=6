@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>corporativo &#8211; TOMIO STUDIO</title>
+	<atom:link href="http://localhost/?feed=rss2&#038;cat=6" rel="self" type="application/rss+xml" />
+	<link>http://localhost</link>
+	<description>Video Makers</description>
+	<lastBuildDate>Mon, 25 Nov 2013 20:59:04 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.1</generator>
+	<item>
+		<title>CARAVANA LIBRELATO JOINVILLE &#124; GIORDANI</title>
+		<link>http://localhost/?p=85</link>
+		<comments>http://localhost/?p=85#respond</comments>
+		<pubDate>Mon, 25 Nov 2013 20:19:44 +0000</pubDate>
+		<dc:creator><![CDATA[leonardo]]></dc:creator>
+				<category><![CDATA[corporativo]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=85</guid>
+		<description><![CDATA[<p><iframe src="//www.youtube.com/embed/U14M-3-9bJA?rel=0" height="480" width="640" allowfullscreen="" frameborder="0"></iframe>&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><iframe src="//www.youtube.com/embed/U14M-3-9bJA?rel=0" height="480" width="640" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/?feed=rss2&#038;p=85</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RS Tennis Joinville</title>
+		<link>http://localhost/?p=83</link>
+		<comments>http://localhost/?p=83#respond</comments>
+		<pubDate>Mon, 25 Nov 2013 20:18:18 +0000</pubDate>
+		<dc:creator><![CDATA[leonardo]]></dc:creator>
+				<category><![CDATA[corporativo]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=83</guid>
+		<description><![CDATA[<p><iframe width="560" height="315" src="//www.youtube.com/embed/6v2C7gAdaWE?rel=0" frameborder="0" allowfullscreen></iframe>&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><iframe width="560" height="315" src="//www.youtube.com/embed/6v2C7gAdaWE?rel=0" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/?feed=rss2&#038;p=83</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
